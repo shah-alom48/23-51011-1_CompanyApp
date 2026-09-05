@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Local databases / Access files
+*.mdb
+*.accdb
+*.ldb
+
+# User-specific files
+*.csproj.user
